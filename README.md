@@ -1,7 +1,4 @@
-### Hi there 👋
-
-## I'm Leo Paiva!
-
+## Hi there 👋, I'm Leo Paiva!
 
 :computer: I'm a Makerting Specialist, Sales man and future Software Engineer!
 
@@ -12,11 +9,14 @@
 :outbox_tray: 2021 Goals: Improve as much as I can in my programming skills and be prepared for a new job in this career.
 
 
+## Technologies (learning and interests)
+
+![C Badge](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)   ![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)   ![C# Badge](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)   ![Python Badge](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)   ![Javascript Badge](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)   ![MySQL Badge](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+
+
 ## About me
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardohpaiva/)](https://www.linkedin.com/in/leonardohpaiva/)
-
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/leonardohpaiva)](https://github.com/leonardohpaiva)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardohpaiva/)](https://www.linkedin.com/in/leonardohpaiva/)   [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/leonardohpaiva)](https://github.com/leonardohpaiva)   [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/leohpaiva/)](https://www.instagram.com/leohpaiva/)
 
 
 - Thanks for visiting.
