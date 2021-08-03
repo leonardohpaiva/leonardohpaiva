@@ -1,4 +1,6 @@
-## 👋 Hi there! My name is Leonardo Paiva.
+## 👋 Hi there!!
+
+My name is Leonardo.
 
 😃 I'm a Makerting Specialist, Sales professional and future Software Engineer!
 
