@@ -21,8 +21,8 @@ My name is Leonardo.
 
 ## 🚀 My stats in 42 Sao Paulo
 
-- Last project finished: #1 Libft -> 
-[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/lehenriq/Libft)](https://github.com/JaeSeoKim/badge42)
+- Last project finished: #1 Get Next Line -> 
+[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/lehenriq/get_next_line)](https://github.com/JaeSeoKim/badge42)
 
 [![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/lehenriq?privacyName=true&cursus=42cursus)](https://github.com/JaeSeoKim/badge42)
 
